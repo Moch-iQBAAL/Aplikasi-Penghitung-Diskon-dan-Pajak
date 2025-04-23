@@ -1,5 +1,4 @@
-
-# 🧾Aplikasi Penghitung Diskon dan Pajak – 2025 by Moch Iqbal
+# 🧾Discount and Tax Calculator Application – 2025 by Moch Iqbal
 
 A simple cashier application built with **PHP Native**, **MySQL**, and **Bootstrap**. This project is intended for educational purposes and small businesses that need a lightweight, easy-to-use, and responsive cashier solution.
 
